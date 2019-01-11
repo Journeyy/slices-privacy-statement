@@ -10,7 +10,7 @@ This Privacy & Cookie Statement is applicable to you when you visit our website 
 ## 2. Who is the data controller? 
 Slices is the data controller for the processing of your personal data under the applicable data protection laws. Slices’ contact information is:
 
-Journeyy  
+Slices Tinker B.V.  
 Busken Huetstraat 4-II  
 1054 SZ Amsterdam  
 The Netherlands  
