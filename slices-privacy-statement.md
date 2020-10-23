@@ -82,7 +82,7 @@ You can block the use of cookies by changing the settings in your browser. This 
 If you have complaints about how we handle your personal data, you can contact us using the contact details in this Privacy & Cookie Statement. We are happy to help you find a solution. If that does not work, you can always lodge a complaint to the Dutch supervisory authority (‘Autoriteit Persoonsgegevens’); more information on how to lodge a complaint can be found on this page (Dutch only). 
 
 ## 13. Questions?
-We take your privacy very seriously and try to protect your privacy as well as possible. If you have any questions concerning the manner in which we process your personal data, or you wish to invoke your rights, you may contact us at [email] or call us via 0031 […] (available on Monday through Friday from 9AM to 6PM).
+We take your privacy very seriously and try to protect your privacy as well as possible. If you have any questions concerning the manner in which we process your personal data, or you wish to invoke your rights, you may contact us at team@slices.co (available on Monday through Friday from 9AM to 6PM).
 
 This Privacy Statement may change at any time. You will always find our up-to-date Privacy Statement on www.slices.co  
 
