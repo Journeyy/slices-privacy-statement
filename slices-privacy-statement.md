@@ -86,4 +86,4 @@ We take your privacy very seriously and try to protect your privacy as well as p
 
 This Privacy Statement may change at any time. You will always find our up-to-date Privacy Statement on www.slices.co  
 
-This Privacy Statement was most recently amended on July 16th, 2018.
+This Privacy Statement was most recently amended on September 23th, 2020.
